@@ -1,7 +1,3 @@
-Here's your **README** file with a professional yet friendly touch, dividers, and emojis! 🚀  
-
----
-
 # 🔄 Unit Converter  
 
 ### Convert Length, Volume, and Mass with Ease!  
@@ -66,7 +62,7 @@ The project was initially developed using **Scrimba’s built-in Scrim editor** 
 ## 📂 How to Run the Project  
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/yourusername/unit-converter.git
+   git clone https://github.com/erzanthedev/unit-converter.git
    ```  
 2. Open `index.html` in your browser.  
 
@@ -75,6 +71,3 @@ The project was initially developed using **Scrimba’s built-in Scrim editor** 
 ## 🎉 Final Thoughts  
 This project was a fantastic way to **strengthen my JavaScript skills**, practice **handling user input dynamically**, and improve my **design replication abilities with Figma**. Looking forward to adding more features in the future! 🚀  
 
----
-
-Let me know if you'd like any modifications! 😊
